@@ -180,7 +180,7 @@ Coming Soon 🚀
 
 <p align="center">
 
-<img src="assets/back.jpg" width="100%">
+<img src="back.jpg" width="100%">
 
 </p>
 
