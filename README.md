@@ -1,6 +1,6 @@
 ![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)
 <p align="center">
-    <img src="assets/banner.gif" width="100%">
+  <img src="bancover.gif" width="100%" height="250">
 </p>
 
 <h1 align="center">Hi 👋, I'm Aygun Adigozelova</h1>
