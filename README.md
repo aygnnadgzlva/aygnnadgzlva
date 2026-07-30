@@ -19,13 +19,6 @@ Java Backend Developer • Spring Boot • Microservices • Learning Kubernetes
 <img src="https://komarev.com/ghpvc/?username=aygnsdqva&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/aygnsdqva?tab=followers">
-<img src="https://img.shields.io/github/followers/aygnsdqva?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/aygnsdqva">
-<img src="https://img.shields.io/github/stars/aygnsdqva?style=for-the-badge"/>
-</a>
 
 </p>
 
