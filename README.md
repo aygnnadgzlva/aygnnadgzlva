@@ -1,13 +1,13 @@
-![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)
-<p align="center">
-  <img src="bannercov.gif" width="100%" height="250">
-</p>
-
 <h1 align="center">Hi 👋, I'm Aygun Adigozelova</h1>
 
 <h3 align="center">
 Java Backend Developer • Spring Boot • Microservices • Learning Kubernetes 🇦🇿
 </h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aygnnadgzlva/aygnnadgzlva/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+</p>
+
+---
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Microservices+Enthusiast;Learning+Kubernetes;Future+AI+Developer"/>
@@ -150,15 +150,6 @@ Coming Soon 🚀
 
 </table>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aygnnadgzlva/aygnnadgzlva/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
-</p>
-
----
 
 # 💡 Quote
 
